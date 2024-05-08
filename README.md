@@ -11,13 +11,16 @@
 
 - 💬 Ask me about **React JS, Node JS, Express JS SQL, MongoDB**
 
-- 📫 How to reach me **amanraj06042001@gmail.com**
+- 📫 How to reach me **amanraj06042001@gmail.com / 6202384284**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Fu-nmMNErtYR7juAkvjI8dDpkJe1Mi6d/view?usp=sharing](https://drive.google.com/file/d/1Fu-nmMNErtYR7juAkvjI8dDpkJe1Mi6d/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/amanraj62023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanraj62023" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-raj-772328256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-raj-772328256/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/amanraj06042001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/amanraj06042001" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/amanraj0lnb7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/amanraj0lnb7/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanraj0604&show_icons=true&locale=en&layout=compact" alt="amanraj0604" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanraj0604&show_icons=true&locale=en" alt="amanraj0604" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanraj0604&" alt="amanraj0604" /></p>
